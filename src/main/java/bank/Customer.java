@@ -8,7 +8,7 @@ private String password;
 private int accountId;
 
 public Customer(int id, String name, String username, String password, int accountId) {
-  setID(id);
+  setId(id);
   setName(name);
   setUsername(username);
   setPassword(password);
